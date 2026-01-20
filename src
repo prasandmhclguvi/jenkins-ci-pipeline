@@ -1,0 +1,17 @@
+src/
+├── main/
+│   ├── java/
+│   │   └── com/
+│   │       └── company/
+│   │           └── microservice/
+│   │               ├── MicroserviceApplication.java
+│   │               └── controller/
+│   │                   └── HelloController.java
+│   └── resources/
+│       └── application.yml
+└── test/
+    └── java/
+        └── com/
+            └── company/
+                └── microservice/
+                    └── MicroserviceApplicationTests.java
